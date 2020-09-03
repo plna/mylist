@@ -1,0 +1,9 @@
+https://app.dropcontact.io/app/api/
+https://app.dropcontact.io/app/upload/
+https://app.dropcontact.io/app/unique_search/
+https://app.dropcontact.io/app/subscription/?restrict=crm
+https://app.dropcontact.io/app/receipts/
+https://app.dropcontact.io/app/billing/
+https://app.dropcontact.io/app/api/
+https://app.dropcontact.io/app/sponsorship/
+https://app.dropcontact.io/app/faq/
