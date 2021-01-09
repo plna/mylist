@@ -20,4 +20,4 @@ inventory/
 system/
 gui/prod/
 gui/urlfield?field=
-
+xmlrpc.php
